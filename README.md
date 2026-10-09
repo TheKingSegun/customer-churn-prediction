@@ -83,6 +83,7 @@ cd src && python train.py
 
 ```
 notebooks/churn_analysis.ipynb   full analysis with outputs
+notebooks/telecom_churn_eda.ipynb  earlier visual EDA on a telecom churn dataset (CSV not included)
 src/features.py                  synthetic data generator, RFM and engagement features
 src/train.py                     training script with cross-validation
 reports/                         SHAP and gain curve charts
